@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">OMG By Michael</string>
     <string name="action_settings">Settings</string>
+    <string name="textview">Michael is learning Android!</string>
+    <string name="button">Update The TextView</string>
+    <string name="hint">A Name</string>
 </resources>
